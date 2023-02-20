@@ -3,5 +3,8 @@ for (let i = 1; i <= 100; i++) {
 }
 
 function fizzBuzz(i) {
-   // TODO
+   // TODO fizzbuzz
+   // TODO fizz
+   // TODO buzz
+   // TODO numbers
 }
