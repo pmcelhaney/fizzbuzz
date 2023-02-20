@@ -1,6 +1,6 @@
 # Changsets Demo using Fizzbuzz
 
-This package was created to demonstrated [Changesets](https://github.com/changesets/changesets)
+This package was created to demonstrate [Changesets](https://github.com/changesets/changesets)
 
 ## Gotchas
 
