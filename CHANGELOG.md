@@ -1,5 +1,11 @@
 # @pmcelhaney/fizzbuzz
 
+## 2.1.0
+
+### Minor Changes
+
+- b16d33e: fizz
+
 ## 2.0.0
 
 ### Major Changes
