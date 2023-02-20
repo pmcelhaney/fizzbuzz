@@ -1,5 +1,0 @@
----
-"@pmcelhaney/fizzbuzz": minor
----
-
-fizz
