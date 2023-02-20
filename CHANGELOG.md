@@ -1,5 +1,11 @@
 # @pmcelhaney/fizzbuzz
 
+## 2.2.0
+
+### Minor Changes
+
+- a05beb9: make fizz lowercase
+
 ## 2.1.0
 
 ### Minor Changes
