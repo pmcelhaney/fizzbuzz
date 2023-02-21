@@ -6,5 +6,5 @@ function fizzBuzz(i) {
    // TODO fizzbuzz
    // TODO fizz
    // TODO buzz
-   // TODO numbers
+   return i;
 }
